@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.btn1{
+  position:relative; 
+  float:left; 
+  height:50px;  
+  width: 400px;
+  margin-left:68px;
+  margin-top: 8px;
+  margin-bottom:150px;
+  font-size: 20px;
+}
+
+.nome1{
+  font-size: 250%;
+  font: 40px; 
+  text-align:center;
+  float:center;
+}
+
+.nome2{
+  font-size: 200%;
+  font: 40px; 
+  text-align:center;
+  float:center;
+}
+.data1{
+  font-size: 250%;
+  font: 40px; 
+  text-align:center;
+  float:center;
+}
+.data2{
+  font-size: 200%;
+  font: 40; 
+  text-align:center;
+  float:center;
+}
+.caption{
+  font-size: 250%;
+  font: 40px; 
+  text-align:center;
+  float:center;
+}
+.like{
+  font-size: 250%;
+  font: 40px; 
+  text-align:center;
+  float:center;
+}
+.comentarios{
+  font-size: 200%;
+  font: 40px; 
+  text-align:center;
+  float:center;
+}
+

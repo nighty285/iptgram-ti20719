@@ -1,0 +1,79 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  width: 40%;
+  border-radius: 5px;
+  font: 70px; 
+  text-align:center;
+  float:center;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-bottom:50px;
+  border-style: solid;
+  height: 30%;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  width: 40%;
+  font: 40px; 
+  text-align:center;
+  float:center;
+  margin-top: 100px;
+  margin-bottom:50px;
+  border-style: solid;
+  height: 30%;
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+  width: 600px;
+  height:700px;
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+.prg1{
+  font-size: 250%;
+  font: 40px; 
+  text-align:center;
+  float:center;
+}
+
+.prg2{
+  font-size: 150%;
+  font: 40px; 
+  text-align:center;
+  float:center;
+}
+
+.prg3{
+  font-size: 150%;
+  font: 40px; 
+  text-align:center;
+  float:center;
+}
+.prg4{
+  font-size: 150%;
+  font: 40px; 
+  text-align:center;
+  float:center;
+}
+
+.pesquisa{
+  height:50px; 
+  border-style: solid;
+  position:relative;
+  font-size: 30px;
+  line-height: 5;
+  width: 400px;
+  padding: 0 50px;
+  margin-top: 150px;
+  text-align: center;
+  float:center;
+  margin-left: 975px;
+  
+}
+
+
